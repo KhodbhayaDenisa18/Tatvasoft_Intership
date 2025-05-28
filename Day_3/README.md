@@ -24,5 +24,5 @@ This is a simple Book Management API developed using .NET and Entity Framework. 
 ##  Project Setup
 
 1. Clone the repository:
-   https://github.com/KhodbhayaDenisa18/Tatvasoft_Intership/Day_3
+   https://github.com/KhodbhayaDenisa18/Tatvasoft_Intership/tree/main/Day_3/BooksApi
 
